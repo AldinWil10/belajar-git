@@ -1,0 +1,4 @@
+urutan mengubah file
+-coding seperti biasa
+-git diff untuk mencari perbedaan versi sebelum dan sesudah
+-git status
