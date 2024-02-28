@@ -1,0 +1,6 @@
+urutan untuk menambahkan file
+-git init
+-git status (kalo merah belum distage)
+-git add "nama fil" / .(untuk seluruh file)
+-git status untuk cek (kalo dah ijo sudah distage)
+-git commit -m "pesan file"
