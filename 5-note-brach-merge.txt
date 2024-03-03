@@ -1,1 +1,4 @@
  fungsi dari branch adalah memisahkan para developer agar tidak terjadi tabrakan code
+
+ -gunakan git checkout -b (nama brach)
+ -untuk kembali ke master => git checkout master
