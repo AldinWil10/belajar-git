@@ -2,3 +2,4 @@
 
  -gunakan git checkout -b (nama brach)
  -untuk kembali ke master => git checkout master
+ -untuk merge harus kembali ke master dulu => git merge (nama branch baru tadi)
