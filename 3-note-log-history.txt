@@ -1,0 +1,3 @@
+belajar mengenai git log
+- ketik git log untuk melihat history
+- catatan versi simpel menggunakan git log --oneline
