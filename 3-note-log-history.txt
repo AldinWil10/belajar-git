@@ -1,3 +1,10 @@
-belajar mengenai git log
+belajar mengenai git log dan restore
 - ketik git log untuk melihat history
 - catatan versi simpel menggunakan git log --oneline
+
+belajar mengenai git restore
+-digunakan untuk mengembalikan file ke versi semula menggunakan git restore namafile / git restore . (untuk working directory)
+
+belajar mengenai perubahan pada staging menggunakan reset / restore
+- git restore -s -digunakan untuk mengembalikan file dari stage -> work (berhasil bro)
+- git reset namafile / , => digunakan untuk mengembalikan file dari stage -> work
