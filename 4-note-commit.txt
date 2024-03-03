@@ -1,3 +1,4 @@
 Belajar terkait commit
 - apakah kita perlu membuat commit baru atau bisa kembali ke commit sebelumnya?
 - cara pertama ribet maka kita gunakan cara kedua dan menghapus commit terbaru
+- memanfaatkan git reset => git reset --hard (kode dari git log --oneline)
