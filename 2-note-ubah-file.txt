@@ -1,4 +1,4 @@
 urutan mengubah file
 -coding seperti biasa
--git diff untuk mencari perbedaan versi sebelum dan sesudah
+-git diff untuk mencari perbedaan versi sebelum dan sesudah (dilakukan sebelum staging alias sebelum git add)
 -git status
