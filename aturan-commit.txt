@@ -1,0 +1,10 @@
+beberapa aturan terkait -m commit
+-gunakan "fix: " untuk memperbaiki bug
+-gunakan "feat: " untuk menambah fitur
+-gunakan "build: " main dengan build
+-gunakan "chore: " memperbaiki atau menambah fitur pada tools
+-gunakan "docs: " update dokumentasi
+-gunakan "style: " update css
+-gunakan "refactor: " mengefisiensi kode tanpa merusak alur
+-gunakan "perf: " update berkaitan performa
+
