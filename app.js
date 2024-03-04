@@ -12,5 +12,8 @@ console.log(divide(8,4));
 
 console.log(add(5,4));
 
+const mathSin = (number)=> Math.sin(number); 
+console.log(mathSin(90));
+
 // Ini adalah komentar satu baris
 // Ini adalah komentar dua baris
