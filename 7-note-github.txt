@@ -5,3 +5,10 @@ cara untuk sinkronisasi repository lokal dengan github
 
 untuk update logg bisa melakukan langkah berikut
 -lakukan perintah "git push origin master"
+
+untuk bekerja dengan beberapa developer
+-buat branch terlebih dahulu dulu dengan perintah git checkout -b "nama branch"
+-coding seperti biasa setelah selesai maka bisa kita upload
+-upload pada branch baru dengan git push origin "nama branch baru"
+-buka github untuk melakukan pengecekan apakah ssudah sesuai atau belum, jika sudah maka bisa acc
+-untuk sinkornisasi log antara github dengan lokal, gunakan "git pull origin master"
