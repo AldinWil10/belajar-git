@@ -1,0 +1,4 @@
+untuk merevisi commit 
+- bisa pake checkout (untuk sifatnya sementara saja)
+- bisa pake reset (kembali ke commit  sebelumnya tapi commit setelahnya akan dihapus dari log) 
+- bisa pake revert (kembali ke commit sebelumnya dan commit yang dibatalkan akan tetap ada pada log)
