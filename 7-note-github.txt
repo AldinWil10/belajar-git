@@ -1,0 +1,7 @@
+cara untuk sinkronisasi repository lokal dengan github
+-buat repository baru di github
+-copas perintah git remote add origin
+-karena brach kita namanya master maka lakukan perintah "git push origin master"
+
+untuk update logg bisa melakukan langkah berikut
+-lakukan perintah "git push origin master"
